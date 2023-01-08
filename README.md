@@ -1,4 +1,4 @@
-# Belly-Butto-Biodiversity
+# Belly-Button-Biodiversity
 
 # Project Overview
 
